@@ -1,1 +1,30 @@
-{}
+{
+    "list": [
+        {
+            "name": "ВАЖНОЕ ОБЪЯВЛЕНИЕ",
+            "description": "Димка Ельтинов хорош, Максон крут, Петя лучший",
+            "id": 0
+        },
+        {
+            "name": "Расписание сегодня",
+            "description": "time_tod",
+            "id": 1
+        },
+        {
+            "name": "Расписание завтра",
+            "description": "time_tom",
+            "id": 2
+        },
+        {
+            "name": "Полезные ресурсы",
+            "description": "rimportant",
+            "id": 3,
+            "srcid": 0
+        },
+        {
+            "name": "Недавние ресурсы",
+            "description": "rlatest",
+            "id": 4
+        }
+    ]
+}

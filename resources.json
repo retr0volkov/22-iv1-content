@@ -1,0 +1,22 @@
+{
+	"list": [
+		{
+			"id": 0,
+			"name": "Письменный Д.Т., Конспект лекций по высшей математике",
+			"sname": "Письменный, конспекты",
+			"olink": "https://drive.google.com/file/d/1j7Fyefe18o9PkoNVzcsSta8phzJEkaqC/view?usp=share_link",
+			"dlink": "https://drive.google.com/u/0/uc?id=1j7Fyefe18o9PkoNVzcsSta8phzJEkaqC&export=download",
+			"imageSrc": "https://i.ibb.co/3pmXCJt/2023-01-04-100800.png",
+			"imageAlt": "Письменный (картинка)"
+		},
+		{
+			"id": 1,
+			"name": "New Headway 3rd Edition Pre-Intermediate Student Book",
+			"sname": "New Headway, английский",
+			"olink": "https://drive.google.com/file/d/1j4q7BoG57uxkPD5t6H3O_RNxW4TtFttb/view?usp=share_link",
+			"dlink": "https://drive.google.com/u/0/uc?id=1j4q7BoG57uxkPD5t6H3O_RNxW4TtFttb&export=download",
+			"imageSrc": "https://i.ibb.co/yyVpgPg/2023-01-04-101757.png",
+			"imageAlt": "Английский (картинка)"
+		}
+	]
+}
