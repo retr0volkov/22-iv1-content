@@ -6,9 +6,10 @@
             "id": 0
         },
         {
-            "name": "Расписание сегодня",
-            "description": "time_tod",
-            "id": 1
+            "name": "Полезные ресурсы",
+            "description": "rimportant",
+            "id": 1,
+            "srcid": 0
         },
         {
             "name": "Недавние ресурсы",
