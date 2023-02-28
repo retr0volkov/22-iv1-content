@@ -11,25 +11,14 @@
             "id": 1
         },
         {
-            "name": "Расписание завтра",
-            "description": "time_tom",
-            "id": 2
-        },
-        {
-            "name": "Полезные ресурсы",
-            "description": "rimportant",
-            "id": 3,
-            "srcid": 0
-        },
-        {
             "name": "Недавние ресурсы",
             "description": "rlatest",
-            "id": 4
+            "id": 2
         },
         {
             "name": "В следующем обновлении",
             "description": "События, очереди, интеграция с ботом",
-            "id": 5
+            "id": 3
         }
     ]
 }
